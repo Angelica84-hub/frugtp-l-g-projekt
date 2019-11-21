@@ -1,22 +1,6 @@
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  background-color: #2196F3;
-  padding: 10px;
-    
-    grid-template-areas: 
-        "a a a"
-        "b b b"
-        "c c c"
-        "d d d"
-        "e e e"
-        "f f f"
- }
+#mitgrid section {
+background-color: aquamarine;
+    padding: 30px;
+   
+}
 
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 5px solid;
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
- }

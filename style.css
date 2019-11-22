@@ -1,6 +1,13 @@
-#mitgrid section {
-background-color: aquamarine;
- padding: 30px;
    
-}
+   
 
+   
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: red;
+    font-size:24px;
+    padding:25px;
+    
+}

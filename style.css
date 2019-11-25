@@ -8,6 +8,7 @@ body,html{
     color:#666;
 }
 
+<<<<<<< HEAD
 .pimg1, .pimg2, .pimg3, .pimg4, .pimg5{
     position: relative;
     opacity: 0.7;
@@ -96,3 +97,19 @@ position: absolute;
     
     
     
+=======
+.container{
+
+    margin: 0 auto;
+    background: red;
+    font-size:24px;
+    padding:25px;
+    
+}
+.parallax{
+    background: url('/photo/family%20picnic.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+>>>>>>> 1f4cdfc1f3809b40dce9bb68294d024eb339e5b6

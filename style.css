@@ -1,9 +1,98 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    font-size: 16PX;
+    font-family: "proxima nova", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color:#666;
+}
 
-.container{
-    max-width: 960px;
-    margin: 0 auto;
-    background: red;
-    font-size:24px;
-    padding:25px;
+.pimg1, .pimg2, .pimg3, .pimg4, .pimg5{
+    position: relative;
+    opacity: 0.7;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    /* Fixed bruges til at lave parallaks effekten.*/
+    
+    background-attachment: fixed;
     
 }
+
+.pimg1{ 
+    background-image: url("img/omos.jpg");
+    min-height: 600px;
+}
+
+.pimg2{ 
+    background-image: url("img/frgpl.jpg");
+    min-height: 600px;
+}
+
+.pimg3{ 
+    background-image: url("img/foraldre.jpg");
+    min-height: 600px;
+}
+
+.pimg4{ 
+    background-image: url("img/exp.jpg");
+    min-height: 600px;
+}
+
+.pimg5{ 
+    background-image: url("img/frgpl.jpg");
+    min-height: 600px;
+     }
+
+.section{
+    text-align: center;
+        padding: 50px 80px;
+}
+.ptext{ 
+position: absolute;
+    top:70%;
+    width:100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.ptext .border{
+    background-color: #111;
+    color: #fff;
+    padding:20px;
+}
+
+
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

@@ -27,12 +27,12 @@ body,html{
 }
 
 .pimg2{ 
-    background-image: url("img/frgpl.jpg");
+    background-image: url("img/frgpl1.jpg");
     min-height: 600px;
 }
 
 .pimg3{ 
-    background-image: url("img/foraldre.jpg");
+    background-image: url("img/family2.jpg");
     min-height: 600px;
 }
 
@@ -42,17 +42,18 @@ body,html{
 }
 
 .pimg5{ 
-    background-image: url("img/frgpl.jpg");
+    background-image: url("img/insp.jpg");
     min-height: 600px;
      }
 
 .section{
     text-align: center;
         padding: 50px 80px;
+    background-color: #fffaf0;
 }
 .ptext{ 
 position: absolute;
-    top:90%;
+    top:70%;
     width:100%;
     text-align: center;
     color: #000;
@@ -63,5 +64,5 @@ position: absolute;
 .ptext .border{
     background-color: #111;
     color: #fff;
-    padding:20px;
+    padding:5px;
 }
